@@ -3,7 +3,7 @@
     <title>ferdi-sahin</title>
     <link href="https://fsahinn.github.io/fshnorg/feed.xml" rel="self" />
     <link href="https://fsahinn.github.io/fshnorg" />
-    <updated>2017-11-12T11:07:00+02:00</updated>
+    <updated>2017-11-12T11:08:24+02:00</updated>
     <author>
         <name>Ferdi Şahin</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://fsahinn.github.io/fshnorg/deneme.html"/>
         <id>https://fsahinn.github.io/fshnorg/deneme.html</id>
 
-        <updated>2017-11-12T11:06:22+02:00</updated>
+        <updated>2017-11-12T11:08:20+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                Deneme yazı
+                Deneme yazıyı d&uuml;zeltelim.
             ]]>
         </content>
     </entry>
