@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ferdi-sahin",
+    "description": "",
+    "home_page_url": "https://fsahinn.github.io/fshnorg",
+    "feed_url": "https://fsahinn.github.io/fshnorg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ferdi Şahin"
+    },
+    "items": [
+        {
+            "id": "https://fsahinn.github.io/fshnorg/deneme.html",
+            "url": "https://fsahinn.github.io/fshnorg/deneme.html",
+            "title": "Deneme",
+            "content_html": "Deneme yazı",
+            "author": {
+                "name": "Ferdi Şahin"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-11-12T11:06:22+02:00",
+            "date_modified": "2017-11-12T11:06:22+02:00"
+        }
+    ]
+}

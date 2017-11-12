@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ferdi-sahin</title>
+    <link href="https://fsahinn.github.io/fshnorg/feed.xml" rel="self" />
+    <link href="https://fsahinn.github.io/fshnorg" />
+    <updated>2017-11-12T11:07:00+02:00</updated>
+    <author>
+        <name>Ferdi Şahin</name>
+    </author>
+    <id>https://fsahinn.github.io/fshnorg</id>
+
+    <entry>
+        <title>Deneme</title>
+        <author>
+            <name>Ferdi Şahin</name>
+        </author>
+        <link href="https://fsahinn.github.io/fshnorg/deneme.html"/>
+        <id>https://fsahinn.github.io/fshnorg/deneme.html</id>
+
+        <updated>2017-11-12T11:06:22+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Deneme yazı
+            ]]>
+        </content>
+    </entry>
+</feed>
